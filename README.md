@@ -1,7 +1,5 @@
 The purpose of this project is to interact with a web platform and handle event-based participation systems utilizing Python Scripts.
 
-The main python modules used were pyautogui, pytesseract, Google's speech_recognition, and Python's email module
-
 The project contains 4 main Python scripts
 
 1.) MainBotFunctions.py
@@ -20,3 +18,4 @@ The project contains 4 main Python scripts
 - Responsible for monitoring if MainBotFunction is running. Checks every couple seconds and will send an email to my phone if an error has occured, so I can come manually restart the script.
 
 ** Note: this was written for personal use with no thought given into variable names or code conciseness at the time.
+** All code is original and my own, except for a few lines about the audio capture and email module, which were taken from various YouTube tutorials on how to run those modules, very baseline.
