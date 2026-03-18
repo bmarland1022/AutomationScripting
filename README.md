@@ -19,4 +19,4 @@ The project contains 4 main Python scripts
 4.) Email_Monitor.py
 - Responsible for monitoring if MainBotFunction is running. Checks every couple seconds and will send an email to my phone if an error has occured, so I can come manually restart the script.
 
-** Note: this was written for personal gain with no thought given into variable names or code conciseness at the time.
+** Note: this was written for personal use with no thought given into variable names or code conciseness at the time.
