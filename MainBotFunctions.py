@@ -2,7 +2,7 @@ import pyautogui as pa
 import time
 import pytesseract as pt
 import random
-import AudioTest2 as at
+import AudioTest as at
 import AudioTestFollower1 as at1
 import AudioTestFollower2 as at2
 import AudioTestFollower3 as at3
