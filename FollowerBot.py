@@ -76,7 +76,7 @@ def joining_givvy1():
             return 15
     time.sleep(.1)
 
-# Routing check to make sure the follower bot is at the right stage of the script, makes sure the
+# Routine check to make sure the follower bot is at the right stage of the script, makes sure the
 # app didn't crash at some point.
 def location_click():
     global topf1
