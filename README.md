@@ -18,4 +18,5 @@ The project contains 4 main Python scripts
 - Responsible for monitoring if MainBotFunction is running. Checks every couple seconds and will send an email to my phone if an error has occured, so I can come manually restart the script.
 
 ** Note: this was written for personal use with no thought given into variable names or code conciseness at the time.
+
 ** All code is original and my own, except for a few lines about the audio capture and email module, which were taken from various YouTube tutorials on how to run those modules, very baseline.
