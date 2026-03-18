@@ -17,6 +17,7 @@ def send_email():
     subject = 'RED ALERT: FIX NOW - COMPUTER 2'
     body = 'Computer 2 Code has stopped running.'
 
+    # Had help from YouTube tutorials for this part
     message = MIMEMultipart()
     message['From'] = sender_email
     message['To'] = receiver_email
