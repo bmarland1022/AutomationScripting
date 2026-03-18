@@ -1,4 +1,5 @@
 The purpose of this project is to interact with web platforms and handle event-based participation systems utilizing Python Scripts.
+
 The main python modules used were pyautogui, pytesseract, Google's speech_recognition, and Python's email module
 
 The project contains 4 main Python scripts
