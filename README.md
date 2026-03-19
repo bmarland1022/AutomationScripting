@@ -19,4 +19,4 @@ The project contains 4 main Python scripts
 
 ** Note: this was written for personal use with no thought given into variable names or code conciseness at the time.
 
-** All code is original and my own, except for a few lines about the audio capture and email module, which were taken from various YouTube tutorials on how to run those modules, very baseline.
+** All code is my own, except for a few lines about the audio capture and email module, which were taken from various YouTube tutorials on how to run those modules, very baseline.
